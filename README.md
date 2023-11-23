@@ -1,8 +1,8 @@
-# Arrays & Hashing
+# Linked List
 
 | Problem | C++ | Video |
 |---------|---|-------|
-| [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [✔️](code\2130MaximumTwinSumofaLinkedList.cpp) | [✔️](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3575293192712530) |
+| [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [✔️](code/2130MaximumTwinSumofaLinkedList.cpp) | [✔️](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3575293192712530) |
 
 
 
